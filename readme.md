@@ -28,14 +28,14 @@ Ponía Already up to date, porque los cambios los había guardado antes.
 
 **- El merge del paso 19,¿Causó algún conflicto?¿Por qué?**
 
-eh
+no ha causado, me ha puesto que todo ok
 
 --
 
 
 **- El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?**
 
-eh
+también todo ok
 
 --
 
@@ -43,7 +43,7 @@ eh
 **- ¿Qué comando o comandos utilizaste en el paso 25?**
 
 
-eh
+git log --graph
 
 --
 
@@ -51,7 +51,7 @@ eh
 
 **- El merge del paso 26, ¿Podría ser fastforward?¿Por qué?**
 
-eh
+a mí me ha ido con no-ff
 
 --
 
@@ -59,7 +59,8 @@ eh
 **- ¿Qué comando o comandos utilizaste en el paso 27?**
 
 
-eh
+git log
+git reset --HARD y la etiqueta del commit
 
 --
 
@@ -67,7 +68,7 @@ eh
 **- ¿Qué comando o comandos utilizaste en el paso 28?**
 
 
-eh
+git reset hard y la etiqueta
 
 --
 
@@ -75,7 +76,8 @@ eh
 **- ¿Qué comando o comandos utilizaste en el paso 29?**
 
 
-eh
+git checkout master
+git branch title -D
 
 --
 
@@ -84,7 +86,7 @@ eh
 **- ¿Qué comando o comandos utilizaste en el paso 30?**
 
 
-eh
+nada
 
 --
 
@@ -92,13 +94,13 @@ eh
 **- ¿Qué comando o comandos usaste en el paso 32?**
 
 
-eh
+nada
 
 --
 
 
 **- ¿Qué comando o comandos usaste en el punto 33?**
 
-eh
+nada
 
 --
